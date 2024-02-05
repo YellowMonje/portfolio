@@ -19,14 +19,17 @@
       text-align: center;
   }
 
-  h1, h2, h3 {
-      margin-bottom: 20px;
-  }
-
-  figure img {
-      width: 100%; /* Asegura que la imagen no sea más grande que su contenedor */
-      height: auto;
+  header img{
+      width: 650px;
+      height: 500px;
       display: block;
+      margin: 1px 20px; /* Centra la imagen */
+      border-radius: 50% 1000% 50% 50%; /* Radio de 10 píxeles en todas las esquinas */
+
+}
+
+
+  h1, h2, h3 {
       margin-bottom: 20px;
   }
 
