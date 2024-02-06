@@ -21,10 +21,10 @@
 
   header img{
       width: 650px;
-      height: 500px;
+      height: auto;
       display: block;
-      margin: 1px 20px; /* Centra la imagen */
-      border-radius: 50% 1000% 50% 50%; /* Radio de 10 píxeles en todas las esquinas */
+      margin: 1px 20px;
+      border-radius: 50% 1000% 50% 50%;
 
 }
 
