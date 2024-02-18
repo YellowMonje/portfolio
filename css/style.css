@@ -1,6 +1,11 @@
+<!-- TITULO -->
 h1 {
-    color: rgb(150, 150, 121);
+    color: #2c786c;
     font-size: 350%;
     font-family: monospace;
     font-weight: 500;
+}
+<!--SUBTITULO -->
+#subtitulo {
+    color: ;
 }
