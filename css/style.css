@@ -15,6 +15,6 @@ h1 {
     text-align: center;
 }
 /* PIE DE PÁGINA */
-div {
-    border: 1px solid black;
+.pie_de_pagina {
+    border: 1px solid #f8b400;
 }
