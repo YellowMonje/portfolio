@@ -14,7 +14,75 @@ h1 {
     font-weight: 10;
     text-align: center;
 }
+/* MENU NAVEGADOR */
+nav {
+    background-color: #faf5e4;
+    color: #f8b400;
+    font-size: medium;
+    font-family: monospace;
+    font-weight: 100;
+    text-align: center;  
+}
+/* SOBRE_MI */
+.sobre_mi {
+    background-color: #f8b400;
+    color: #2c786c;
+}
+/* HABILIDADES */
+.habilidades {
+    background-color: #faf5e4;
+    color: #2c786c;
+}
+/* PROYECTPOS */
+.proyectos {
+    background-color: #2c786c;
+    color: #faf5e4;
+}
+/* EXPERIENCIA */
+.experiencia {
+    background-color: #004445;
+    color: #faf5e4;
+}
 /* PIE DE PÁGINA */
 .pie_de_pagina {
-    border: 1px solid #f8b400;
+    background-color: #f8b400;
+}
+/* PARRAFO_REGRESAR */
+.parrafo_regresar {
+    color: #004445;
+    text-align: right;
+}
+/* PARRAFO_FOOTER */
+.parrafo_footer {
+    color: #004445;
+    text-align: center;
+}
+/* ASIDE */
+aside {
+    background-color: #faf5e4;
+    color: #2c786c;
+    text-align: right;
+    font-size: x-large;
+    font-family: monospace;
+}
+/* TÍTULOS DE SECCIONES */
+h2 {
+    font-size: x-large;
+    font-family: monospace;
+    font-weight: 900;
+    text-align: left;
+}
+/* PÁRRAFOS */
+p {
+    font-size: medium;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 100; 
+    text-align: justify;
+}
+/* ITEMS DE LISTAS */
+li {
+    font-size: large;
+    font-family: monospace;
+    font-weight: 500;
+    text-align: left;
 }
