@@ -52,6 +52,9 @@ nav {
     color: #004445;
     text-align: right;
 }
+.parrafo_regresar:hover {
+    background-color: #f8b400;
+}
 /* PARRAFO_FOOTER */
 .parrafo_footer {
     color: #004445;
@@ -64,6 +67,10 @@ aside {
     text-align: right;
     font-size: x-large;
     font-family: monospace;
+}
+blockquote:hover {
+    background-color: #004445;
+    color: #faf5e4;
 }
 /* TÍTULOS DE SECCIONES */
 h2 {
@@ -85,4 +92,8 @@ li {
     font-family: monospace;
     font-weight: 500;
     text-align: left;
+}
+.li_enlace:hover {
+    background-color: #f8b400;
+    color: #faf5e4;
 }
