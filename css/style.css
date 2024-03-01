@@ -23,8 +23,6 @@ nav {
     font-size: medium;
     font-family: monospace;
     font-weight: 100;
-    padding: 10px 20px 0px 400px;
-
 }
 /* SOBRE_MI */
 .sobre_mi {
@@ -113,4 +111,10 @@ li {
 .li_enlace:hover {
     background-color: #f8b400;
     color: #faf5e4;
+}
+
+img {
+    max-width: 60vw;
+    border-radius: 70% 70%;
+    object-fit: scale-down;
 }
