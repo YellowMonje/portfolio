@@ -114,7 +114,7 @@ li {
 }
 
 img {
-    max-width: 60vw;
+    max-width: 500px;
     border-radius: 70% 70%;
     object-fit: scale-down;
 }
